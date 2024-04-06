@@ -71,7 +71,6 @@ RESOURCES += \
 TRANSLATIONS += \
     translations/de.ts \
     translations/fr.ts \
-    translations/ja.ts \
     translations/tr.ts
 
 CONFIG += lrelease
